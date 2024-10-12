@@ -59,5 +59,3 @@ This project is a simple brute force password recovery script designed to extrac
 
 ## Disclaimer
 **Use this tool responsibly and only on files you have permission to access. Unauthorized access to computer systems is illegal and unethical.**
-
----
